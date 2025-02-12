@@ -4,7 +4,6 @@
 ✨ Insights into Discount Strategies and Sales Trends
 Key Insights:
 
-Inconsistent Discounting Strategy:
 
 📉 In 2015, low discounts hurt sales and customer retention. We used groupby() and mean() to see how discounts changed year by year.
 💡 High discounts in 2014 and 2016 caused confusion, showing that the discount strategy wasn’t clear.
